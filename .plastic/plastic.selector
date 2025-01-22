@@ -1,0 +1,4 @@
+repository "Mixed_Reality@Ale_passa@cloud"
+  path "/"
+    br "/main"
+    co "/main"
